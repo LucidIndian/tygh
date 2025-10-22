@@ -4,3 +4,15 @@
 
 layout: home
 ---
+
+## SellerSmile
+[https://www.sellersmile.com/](https://www.sellersmile.com/) - Your E-commerce Customer Service Team since 2017.
+
+## Blue Drumlin
+[https://bluedrumlin.com/](https://bluedrumlin.com/) - Building web apps with Ruby on Rails.
+
+### SlopeCS
+[https://slopecs.com/](https://slopecs.com/) - shipping policy Shopify app
+
+## Sustainable Life Fitness
+Writings on Indigenous Wellness.
