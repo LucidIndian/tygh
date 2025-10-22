@@ -19,3 +19,13 @@ layout: home
 
 ## Sustainable Life Fitness
 Writings on Indigenous Wellness.
+
+## Banjo
+Learning 3-finger #banjo according to “Earl Scruggs and the 5-String Banjo.”
+
+[https://www.youtube.com/@KitsapCoBanjo](https://www.youtube.com/@KitsapCoBanjo)
+
+Amazon affiliate link for [my banjo gear and book](amzn.to/3nmK4I8).
+
+
+
