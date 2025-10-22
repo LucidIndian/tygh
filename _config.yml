@@ -16,12 +16,12 @@
 title: Tygh Walters
 email: bluedrumlin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal works and project by Tygh Walters.
+  Works and projects by Tygh Walters.
 domain: tyghwalters.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tyghwalters.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tyghwalters
-github_username:  LucidIndian
+github_username: LucidIndian
 
 # Build settings
 markdown: kramdown
