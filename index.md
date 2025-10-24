@@ -5,19 +5,17 @@ title: Home
 layout: home
 ---
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/18626418/activity-summary/9e91a91c034aec1005c64c12e0deda2111ff8b2e'></iframe>
-
 ## SellerSmile
 [https://www.sellersmile.com/](https://www.sellersmile.com/) - Your E-commerce Customer Service Team since 2017.
 
 ## Blue Drumlin
-[https://bluedrumlin.com/](https://bluedrumlin.com/) - Building web apps with Ruby on Rails.
+[https://bluedrumlin.com/](https://bluedrumlin.com/) - Building with Ruby on Rails.
 
-### SlopeCS
-[https://slopecs.com/](https://slopecs.com/) - shipping policy Shopify app.
+* SlopeCS
+[https://slopecs.com/](https://slopecs.com/) - Automated shipping policy for your Shopify store.
 
-### GeoGardening 
-[http://geogardening.app/](http://geogardening.app/) - A location-based gardening journal.
+* GeoGardening 
+[http://geogardening.app/](http://geogardening.app/) - A location-based, weather-aware gardening journal.
 
 ## Sustainable Life Fitness
 Writings on Indigenous Wellness.
@@ -27,7 +25,7 @@ Learning 3-finger #banjo according to “Earl Scruggs and the 5-String Banjo.”
 
 [https://www.youtube.com/@KitsapCoBanjo](https://www.youtube.com/@KitsapCoBanjo)
 
-Amazon affiliate link for [my banjo gear and book](amzn.to/3nmK4I8).
+Affiliate link for [my banjo gear and book](amzn.to/3nmK4I8).
 
-
-
+## Strava
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/18626418/activity-summary/9e91a91c034aec1005c64c12e0deda2111ff8b2e'></iframe>
