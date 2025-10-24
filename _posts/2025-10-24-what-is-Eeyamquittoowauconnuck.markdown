@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Indigenous Peoples' Day in Dzidzilalich (Seattle)"
+title:  "What is Eeyamquittoowauconnuck?"
 date:   2025-10-22 19:03:46 -0700
-categories: update
+categories: update [Brothertown Indian Nation]
 ---
 
 # What is Eeyamquittoowauconnuck?
 
-Eeyamquittoowauconnuck is the traditional name of the Brothertown Indian Nation, a community with deep roots in the New England region. The name was first recorded on November 7, 1785, by Mohegan minister and educator Samson Occom in his journal entry:
+Eeyamquittoowauconnuck is the indigenous name of the Brothertown Indian Nation, a community with origins in the New England region. The name was first recorded on November 7, 1785, by Mohegan minister and educator Samson Occom in his journal entry:
 
 “We now proceeded to form into a Body Politick—We named our town by the name of Brotherton, in Indian—Eeyamquittoowauconnuck.” brothertownindians.org
 
-This date is now commemorated annually as Eeyamquittoowauconnuck Day, honoring the tribe's founding and the enduring strength of its community. brothertownindians.org
+This date is now commemorated annually as Eeyamquittoowauconnuck Day, honoring the tribe's founding and the enduring strength of its community.
 
 Pronunciation and Meaning
-The name Eeyamquittoowauconnuck is a phonetic rendering of an Indigenous term, and its exact pronunciation can vary. A commonly accepted pronunciation divides the name into seven syllables:
+The name Eeyamquittoowauconnuck is a phonetic rendering of an Indigenous term, and its exact pronunciation can vary. Commonly divided into seven syllables:
 
 Ee (like the letter "E")
 
