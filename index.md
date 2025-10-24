@@ -15,10 +15,10 @@ layout: home
 [https://slopecs.com/](https://slopecs.com/) - Automated shipping policy for your Shopify store.
 
 * GeoGardening 
-[http://geogardening.app/](http://geogardening.app/) - A location-based, weather-aware gardening journal.
+[https://geogardening.app/](https://geogardening.app/) - A location-based, weather-aware gardening journal.
 
 ## Sustainable Life Fitness
-[Writings on Indigenous Wellness]().
+[Perspectives on Indigenous Wellness](https://tyghwalters.com/sustainable-life-fitness/).
 
 ## Banjo
 Learning 3-finger #banjo according to “Earl Scruggs and the 5-String Banjo.”
