@@ -5,8 +5,6 @@ date:   2025-10-22 19:03:46 -0700
 categories: update [Brothertown Indian Nation]
 ---
 
-# What is Eeyamquittoowauconnuck?
-
 Eeyamquittoowauconnuck is the original name of the Brothertown Indian Nation, with origins in the New England region. The word is of the Mohegan-Pequot language and refers to the tribe's desire for a distinct, bonded community. The name was first recorded on November 7, 1785, by Mohegan minister and educator Samson Occom in his journal entry:
 
 “We now proceeded to form into a Body Politick—We named our town by the name of Brotherton, in Indian—Eeyamquittoowauconnuck.” [https://brothertownindians.org/history/](https://brothertownindians.org/history/)
