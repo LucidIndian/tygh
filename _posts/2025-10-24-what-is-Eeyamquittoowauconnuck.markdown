@@ -2,8 +2,8 @@
 layout: post
 title:  "What is Eeyamquittoowauconnuck?"
 date:   2025-10-22 19:03:46 -0700
-categories: update (Brothertown Indian Nation) SLF (Indigenous Wellness)
-tags: Eeyamquittoowauconnuck (Brothertown Indian Nation)
+categories: [update [Brothertown Indian Nation] SLF [Indigenous Wellness]]
+tags: [Eeyamquittoowauconnuck [Brothertown Indian Nation]]
 ---
 
 Eeyamquittoowauconnuck is the original name of the Brothertown Indian Nation, with origins in the New England region. The word is of the Mohegan-Pequot language and refers to the tribe's desire for a distinct, bonded community. The name was first recorded on November 7, 1785, by Mohegan minister and educator Samson Occom in his journal entry:
@@ -15,19 +15,13 @@ November 7th is commemorated annually as Eeyamquittoowauconnuck Day, honoring th
 ## Pronunciation and Meaning
 The name Eeyamquittoowauconnuck is a phonetic rendering of an Mohegan-Pequot term, and its exact pronunciation can vary. Commonly divided into seven syllables:
 
-Ee (like the letter "E")
-
-Yaw (rhymes with "paw")
-
-Quit (rhymes with "bit")
-
-Too (like the English word "too")
-
-Wau (rhymes with "how")
-
-Con (like the English word "con")
-
-Nuck (rhymes with "truck")
+* Ee (like the letter "E")
+* Yaw (rhymes with "paw")
+* Quit (rhymes with "bit")
+* Too (like the English word "too")
+* Wau (rhymes with "how")
+* Con (like the English word "con")
+* Nuck (rhymes with "truck")
 
 [Pronunciation reference](https://youtu.be/XAnNGURBopM?si=OD5JjludLA7O_6Yn&t=83)
 
