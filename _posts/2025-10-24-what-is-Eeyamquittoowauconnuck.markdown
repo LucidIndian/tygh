@@ -9,11 +9,11 @@ categories: update [Brothertown Indian Nation]
 
 Eeyamquittoowauconnuck is the indigenous name of the Brothertown Indian Nation, a community with origins in the New England region. The name was first recorded on November 7, 1785, by Mohegan minister and educator Samson Occom in his journal entry:
 
-“We now proceeded to form into a Body Politick—We named our town by the name of Brotherton, in Indian—Eeyamquittoowauconnuck.” brothertownindians.org
+“We now proceeded to form into a Body Politick—We named our town by the name of Brotherton, in Indian—Eeyamquittoowauconnuck.” [https://brothertownindians.org/history/](https://brothertownindians.org/history/)
 
-This date is now commemorated annually as Eeyamquittoowauconnuck Day, honoring the tribe's founding and the enduring strength of its community.
+November 7th is commemorated annually as Eeyamquittoowauconnuck Day, honoring the tribe's founding and the enduring strength of its community.
 
-Pronunciation and Meaning
+## Pronunciation and Meaning
 The name Eeyamquittoowauconnuck is a phonetic rendering of an Indigenous term, and its exact pronunciation can vary. Commonly divided into seven syllables:
 
 Ee (like the letter "E")
@@ -31,9 +31,9 @@ Con (like the English word "con")
 Nuck (rhymes with "truck")
 
 
-[Pronunciation reference] (https://youtu.be/XAnNGURBopM?si=OD5JjludLA7O_6Yn&t=83)
+[Pronunciation reference](https://youtu.be/XAnNGURBopM?si=OD5JjludLA7O_6Yn&t=83)
 
-While the precise translation of Eeyamquittoowauconnuck is debated, several interpretations have been proposed:
+Several interpretations of Eeyamquittoowauconnuck have been shared:
 
 * “Town of brothers living together in unity”: Reflecting the community's vision of a harmonious society. PBS Wisconsin
 
