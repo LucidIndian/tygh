@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Food as Ceremony & Diabetes Awareness"
-date:   2025-11-01 00:03:46 -0700
+date:   2025-10-24 00:03:46 -0700
 categories: [Indigenous Wellness, Brothertown Indian Nation]
 tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 ---
