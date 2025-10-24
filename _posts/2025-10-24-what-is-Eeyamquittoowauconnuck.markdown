@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Eeyamquittoowauconnuck?"
 date:   2025-10-22 19:03:46 -0700
-categories: [Brothertown Indian Nation, Indigenous Wellness]
+categories: [Brothertown Indian Nation]
 tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation]
 
 ---

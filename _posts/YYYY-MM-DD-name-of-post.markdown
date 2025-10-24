@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  "Indigenous Peoples' Day in Dzidzilalich (Seattle)"
-date:   2025-10-22 19:03:46 -0700
-categories: update
+title:  "Food as Ceremony & Diabetes Awareness"
+date:   2025-11-01 00:03:46 -0700
+categories: [Indigenous Wellness, Brothertown Indian Nation]
+tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 ---
 
-Dzidzilalich is a Lushootseed word meaning "little crossing-over place," which is the traditional name for Seattle's waterfront.
+## For National Diabetes Awareness Month and Native American Heritage Month
+
+* Nutrition, traditional foods, and diabetes prevention.
+* Honoring ancestors during harvest and feast seasons.
+* Reconnecting with traditional dietary practices.
+
+Full article coming Soon!
