@@ -7,14 +7,14 @@ categories: update [Brothertown Indian Nation]
 
 # What is Eeyamquittoowauconnuck?
 
-Eeyamquittoowauconnuck is the indigenous name of the Brothertown Indian Nation, a community with origins in the New England region. The name was first recorded on November 7, 1785, by Mohegan minister and educator Samson Occom in his journal entry:
+Eeyamquittoowauconnuck is the original name of the Brothertown Indian Nation, with origins in the New England region. The word is of the Mohegan-Pequot language and refers to the tribe's desire for a distinct, bonded community. The name was first recorded on November 7, 1785, by Mohegan minister and educator Samson Occom in his journal entry:
 
 “We now proceeded to form into a Body Politick—We named our town by the name of Brotherton, in Indian—Eeyamquittoowauconnuck.” [https://brothertownindians.org/history/](https://brothertownindians.org/history/)
 
 November 7th is commemorated annually as Eeyamquittoowauconnuck Day, honoring the tribe's founding and the enduring strength of its community.
 
 ## Pronunciation and Meaning
-The name Eeyamquittoowauconnuck is a phonetic rendering of an Indigenous term, and its exact pronunciation can vary. Commonly divided into seven syllables:
+The name Eeyamquittoowauconnuck is a phonetic rendering of an Mohegan-Pequot term, and its exact pronunciation can vary. Commonly divided into seven syllables:
 
 Ee (like the letter "E")
 
@@ -30,7 +30,6 @@ Con (like the English word "con")
 
 Nuck (rhymes with "truck")
 
-
 [Pronunciation reference](https://youtu.be/XAnNGURBopM?si=OD5JjludLA7O_6Yn&t=83)
 
 Several interpretations of Eeyamquittoowauconnuck have been shared:
@@ -44,13 +43,14 @@ Several interpretations of Eeyamquittoowauconnuck have been shared:
 These interpretations highlight the community's values of unity, shared purpose, and collective identity.
 
 ## Historical Context
-The Brothertown Indian Nation was formed in the late 18th century by leaders from various Indigenous tribes, including the Mohegan, Pequot, Narragansett, Montauk, Niantic, and Tunxis. Seeking to establish a community that combined Indigenous traditions with Christian teachings, they founded the town of Brothertown (Eeyamquittoowauconnuck) in New York. Wikipedia
-Over time, the community faced pressures from land speculators and settlers, leading to multiple relocations. In the 1830s, the Brothertown people moved westward, eventually settling near Lake Winnebago in Wisconsin. Despite challenges, they have maintained their cultural identity and continue to honor their ancestral name, Eeyamquittoowauconnuck.
+The Brothertown Indian Nation was formed in the late 18th century by leaders from various Indigenous tribes, including the Mohegan, Pequot, Narragansett, Montauk, Niantic, and Tunxis. Seeking to establish a community that combined Indigenous traditions with Christian teachings, they founded the town of Brothertown (Eeyamquittoowauconnuck) in New York. 
+
+Over time, the community faced pressures leading to multiple relocations. In the 1830s, the Brothertown people moved westward, eventually settling on the Eastern shore of Lake Winnebago in Wisconsin. Despite challenges, they have maintained their cultural identity and continue to honor their ancestral name, Eeyamquittoowauconnuck.
 
 ## Cultural Significance
-Eeyamquittoowauconnuck is more than just a name; it is a symbol of the Brothertown Indian Nation's resilience, unity, and commitment to preserving their heritage. The name encapsulates the community's journey, values, and the enduring spirit of its people. By embracing and celebrating Eeyamquittoowauconnuck, the tribe honors its past and ensures that future generations remain connected to their roots.
+Eeyamquittoowauconnuck is a symbol of the Brothertown Indian Nation's resilience, unity, and commitment to preserving their heritage. The name encapsulates the community's journey, values, and the enduring spirit of its people. By embracing and celebrating Eeyamquittoowauconnuck, the tribe honors its past and ensures that future generations remain connected to their diverse roots.
 
 ## Conclusion
 Eeyamquittoowauconnuck stands as a testament to the strength and unity of the Brothertown Indian Nation. It serves as a reminder of the community's shared history, values, and the enduring importance of cultural identity. As the tribe continues to thrive, the name Eeyamquittoowauconnuck will remain a cornerstone of their collective memory and pride.
 
-For more information about the Brothertown Indian Nation and their history, visit the official website at [https://brothertownindians.org/](https://brothertownindians.org/).
+To learn more about the Brothertown Indian Nation, their history, and efforts towards federal recognition, visit their official website at [https://brothertownindians.org/](https://brothertownindians.org/).
