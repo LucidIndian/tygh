@@ -5,7 +5,7 @@ title: Home
 layout: home
 ---
 
-<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/18626418/latest-rides/9e91a91c034aec1005c64c12e0deda2111ff8b2e'></iframe>
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/18626418/activity-summary/9e91a91c034aec1005c64c12e0deda2111ff8b2e'></iframe>
 
 ## SellerSmile
 [https://www.sellersmile.com/](https://www.sellersmile.com/) - Your E-commerce Customer Service Team since 2017.
