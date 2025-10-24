@@ -6,7 +6,9 @@ permalink: /sustainable-life-fitness/
 
 ## Perspectives on Indigenous Wellness
 
-These articles are intended for educational and cultural purposes only. It does not constitute medical advice, diagnosis, or treatment. Always consult a licensed healthcare professional regarding any questions or concerns about your health or medical conditions.
+Why are Indigenous people in America less healthy than their non-indigenous Americans?
+
+_These articles are intended for educational and cultural purposes only. It does not constitute medical advice, diagnosis, or treatment. Always consult a licensed healthcare professional regarding any questions or concerns about your health or medical conditions._
 
 <ul>
 {% for post in site.posts %} 
