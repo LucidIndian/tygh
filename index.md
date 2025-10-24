@@ -18,7 +18,7 @@ layout: home
 [http://geogardening.app/](http://geogardening.app/) - A location-based, weather-aware gardening journal.
 
 ## Sustainable Life Fitness
-Writings on Indigenous Wellness.
+[Writings on Indigenous Wellness]().
 
 ## Banjo
 Learning 3-finger #banjo according to “Earl Scruggs and the 5-String Banjo.”

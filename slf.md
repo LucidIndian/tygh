@@ -6,9 +6,9 @@ permalink: /sustainable-life-fitness/
 
 ## Perspectives on Indigenous Wellness
 
-Why are Indigenous people in America less healthy than their non-indigenous Americans?
+### Why are Indigenous Americans less healthy than non-Indigenous?
 
-_These articles are intended for educational and cultural purposes only. It does not constitute medical advice, diagnosis, or treatment. Always consult a licensed healthcare professional regarding any questions or concerns about your health or medical conditions._
+Examining the modern health crises of Indigenous Americans through the lens of the culture of the Brothertown Indian Nation.
 
 <ul>
 {% for post in site.posts %} 
@@ -17,3 +17,5 @@ _These articles are intended for educational and cultural purposes only. It does
 {% endif %}
 {% endfor %}
 </ul>
+
+_These articles are intended for educational and cultural purposes only. It does not constitute medical advice, diagnosis, or treatment. Always consult a licensed healthcare professional regarding any questions or concerns about your health or medical conditions._
