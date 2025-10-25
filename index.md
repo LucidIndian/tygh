@@ -23,7 +23,7 @@ layout: home
 [https://geogardening.app/](https://geogardening.app/) - A location-based, weather-aware gardening journal.
 
 ## Banjo
-Learning 3-finger #banjo according to [“Earl Scruggs and the 5-String Banjo.”](amzn.to/3sSnnm7).
+Learning 3-finger #banjo according to [“Earl Scruggs and the 5-String Banjo.”](https://www.amzn.to/3sSnnm7).
 
-[https://www.youtube.com/@KitsapCoBanjo](https://www.youtube.com/@KitsapCoBanjo). Affiliate link for [the Scruggs book](amzn.to/3sSnnm7).
+[https://www.youtube.com/@KitsapCoBanjo](https://www.youtube.com/@KitsapCoBanjo). Affiliate link for [the Scruggs book](https://www.amzn.to/3sSnnm7).
 

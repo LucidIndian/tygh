@@ -16,6 +16,8 @@ _"Given the higher health status enjoyed by most Americans, the lingering health
 
 Exploring today's health crises of Indigenous and American Indian people through the cultural lens of the [Brothertown Indian Nation](https://brothertownindians.org/).
 
+### Recent posts on Indigenous Wellness
+
 <ul>
 {% for post in site.posts %} 
 {% if post.categories contains "Indigenous Wellness" %}
