@@ -8,6 +8,8 @@ permalink: /sustainable-life-fitness/
 
 ## Why are Indigenous and American Indians less healthy than non-Indigenous people?
 
+Indian Health Service, the Federal Health Program for American Indians and Alaska Natives, notes "The American Indian and Alaska Native people have long experienced lower health status when compared with other Americans." in the form of "Lower life expectancy and the disproportionate disease burden." - [ihs.gov/newsroom/factsheets/disparities/](https://www.ihs.gov/newsroom/factsheets/disparities/)
+
 Exploring today's health crises of Indigenous and American Indian tribes through the cultural lens of the [Brothertown Indian Nation](https://brothertownindians.org/).
 
 <ul>
