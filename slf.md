@@ -10,7 +10,7 @@ Indian Health Service, the Federal Health Program, notes _"The American Indian a
 
 _"Given the higher health status enjoyed by most Americans, the lingering health disparities of American Indians and Alaska Natives are troubling."_
 
-- [ihs.gov/newsroom/factsheets/disparities/](https://www.ihs.gov/newsroom/factsheets/disparities/)
+Source: [ihs.gov/newsroom/factsheets/disparities/](https://www.ihs.gov/newsroom/factsheets/disparities/)
 
 ## Can we heal through our traditional ways?
 
