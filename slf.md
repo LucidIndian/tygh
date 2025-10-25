@@ -6,7 +6,7 @@ permalink: /sustainable-life-fitness/
 
 # The Indigenous Wellness Disparity in America
 
-Indian Health Service, the Federal Health Program for American Indians and Alaska Natives, notes _"The American Indian and Alaska Native people have long experienced lower health status when compared with other Americans."_ in the form of _"Lower life expectancy and the disproportionate disease burden."_ 
+Indian Health Service, the Federal Health Program, notes _"The American Indian and Alaska Native people have long experienced lower health status when compared with other Americans."_ in the form of _"Lower life expectancy and the disproportionate disease burden."_ 
 
 _"Given the higher health status enjoyed by most Americans, the lingering health disparities of American Indians and Alaska Natives are troubling."_
 
