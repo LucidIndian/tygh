@@ -5,6 +5,11 @@ title: Home
 layout: home
 ---
 
+# TyghWalters.com
+
+## Sustainable Life Fitness
+[Perspectives on Indigenous Wellness](https://tyghwalters.com/sustainable-life-fitness/).
+
 ## SellerSmile
 [https://www.sellersmile.com/](https://www.sellersmile.com/) - Your E-commerce Customer Service Team since 2017.
 
@@ -17,15 +22,8 @@ layout: home
 * GeoGardening 
 [https://geogardening.app/](https://geogardening.app/) - A location-based, weather-aware gardening journal.
 
-## Sustainable Life Fitness
-[Perspectives on Indigenous Wellness](https://tyghwalters.com/sustainable-life-fitness/).
-
 ## Banjo
-Learning 3-finger #banjo according to “Earl Scruggs and the 5-String Banjo.”
+Learning 3-finger #banjo according to [“Earl Scruggs and the 5-String Banjo.”](amzn.to/3sSnnm7).
 
-[https://www.youtube.com/@KitsapCoBanjo](https://www.youtube.com/@KitsapCoBanjo)
+[https://www.youtube.com/@KitsapCoBanjo](https://www.youtube.com/@KitsapCoBanjo). Affiliate link for [the Scruggs book](amzn.to/3sSnnm7).
 
-Affiliate link for [my banjo gear and book](amzn.to/3nmK4I8).
-
-## Strava
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/18626418/activity-summary/9e91a91c034aec1005c64c12e0deda2111ff8b2e'></iframe>
