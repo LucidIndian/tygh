@@ -4,11 +4,11 @@ title: Sustainable Life Fitness
 permalink: /sustainable-life-fitness/
 ---
 
-## Perspectives on Indigenous Wellness
+# Perspectives on the Indigenous Wellness Disparity in America
 
-### Why are Indigenous Americans less healthy than non-Indigenous?
+## Why are Indigenous and American Indians less healthy than non-Indigenous people?
 
-Examining the modern health crises of Indigenous Americans through the lens of the culture of the Brothertown Indian Nation.
+Exploring today's health crises of Indigenous and American Indian tribes through the cultural lens of the [Brothertown Indian Nation](https://brothertownindians.org/).
 
 <ul>
 {% for post in site.posts %} 
@@ -18,4 +18,4 @@ Examining the modern health crises of Indigenous Americans through the lens of t
 {% endfor %}
 </ul>
 
-_These articles are intended for educational and cultural purposes only. It does not constitute medical advice, diagnosis, or treatment. Always consult a licensed healthcare professional regarding any questions or concerns about your health or medical conditions._
+_These articles are intended for educational and cultural purposes only. Nothing on this site constitutes medical advice, diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health or medical conditions._

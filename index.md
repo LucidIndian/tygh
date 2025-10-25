@@ -5,7 +5,7 @@ title: Home
 layout: home
 ---
 
-# TyghWalters.com
+# Welcome to TyghWalters.com
 
 ## Sustainable Life Fitness
 [Perspectives on Indigenous Wellness](https://tyghwalters.com/sustainable-life-fitness/).
