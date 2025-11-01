@@ -13,7 +13,7 @@ tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 > keep your blood glucose at normal levels. Type 2 diabetes develops most often in middle-aged and older adults but 
 > is increasing in young people." [^3]
 
-November, both Native American Heritage Month and National Diabetes Awareness Month, invites us to reflect on the wisdom of our ancestors, about eating for health and life.
+November, both [Native American Heritage Month](https://www.bia.gov/NNAHM) and [American Diabetes Month](https://diabetes.org/adm), invites us to reflect on the wisdom of our ancestors, about eating for health and life.
 
 _Why do Indigenous people disproportionally suffer and die from diabetes?_
 
@@ -21,7 +21,7 @@ The causes are complex but this disparity is likely rooted in how foods and life
 
 ## The harvest is finished
 
-The people of Eeyamquittoowauconnuck (The Brothertown Indian Nation), an agricultural people,  remember the seasonal rhythm of the matrilineal harvest. Whether in New England, New York, or Wisconsin, each of these historic places express a similar natural shift; the days shorten and darken, animals migrate or hibernate, and the first frosts are found resting on our homes and gardens; rendering them still, lifeless.
+The people of Eeyamquittoowauconnuck (The Brothertown Indian Nation), an agricultural people, remember the seasonal rhythm of the matrilineal harvest. Whether in New England, New York, or Wisconsin, each of these historic places express a similar natural shift; the days shorten and darken, animals migrate or hibernate, and the first frosts are found resting on our homes and gardens; rendering them still.
 
 The first frost, which occurs from late September through early November in these regions, marks the end of the growing season. The water inside plants turn into ice crystals at 32-degrees, causing cells to rupture and perish. New shoots and flowers cannot survive the harsh North American winter.  
 
@@ -47,16 +47,16 @@ When I close my eyes and image a typical Indigenous meal of these items on my pl
 
 Besides being a hearty meal, the nutritional quality of the Three Sisters are complementary. Corn is a source of carbohydrates, protein and oils, but the protein is lacking in the amino acids, lysine and tryptophan. Beans provide the missing amino acids. Squash is a source of carbohydrates and more protein if the seeds are consumed. All three vegetables are high in fiber and together, provide a range of minerals and vitamins. [^6]
 
-A compared to a customary American Thanksgiving meal, a meal of corn, beans, squash, wild rice, and berries is lower in calories, plant-based and more rish in fiber.
+A compared to a customary American Thanksgiving meal, a meal of corn, beans, squash, wild rice, and berries is lower in calories, plant-based and more rich in fiber.
 
-Compared to other foods of the Standard American Diet, their relatively lower glycemic index of these foods the ensures slower, steady glucose and insulin response: 
+Compared to other foods of the Standard American Diet, their relatively lower glycemic index ensures a slower, more steady glucose and insulin response: 
 - corn ~55 (Low/Medium)
 - beans ~30 (Low)
 - squash ~50 (Low)
 - wild rice ~45 (Low)
 - berries ~25–40 (Low)
 
-Wild rice may take longer to cook but it has a lower glycemic index of ~45 (Low) compared to white rice at ~70 (high). [^7]
+Wild rice may take longer to cook but it has a lower glycemic index of ~45 (Low) compared to white rice at ~70 (high).[^7]
 
 Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a deadly and preventable disease related to the food we eat every day.
 
@@ -80,7 +80,7 @@ Each act of choosing traditional foods is an act of remembrance, resilience, and
 ---
 _Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
-### Other resources:
+### Other resources
 
 - [Lake Winnebago wild rice restoration project continues despite federal funding cut – WPR](https://brothertownindians.org/2025/10/28/lake-winnebago-wild-rice-restoration-project-continues-despite-federal-funding-cut-wpr/)
 
