@@ -33,7 +33,9 @@ Long before the modern idea of something like type 2 diabetes, we understood tha
 
 Among the most enduring symbols of Indigenous American agriculture are the Three Sisters: corn, beans, and squash. Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture. [^4] 
 
-It's difficult now not to notice the connection of the otherwise non-Indigenous activity of carving jack-o-lanterns and a pumpkins, a winter squash, and one of the Three Sisters.
+In one tribe, the Three Sisters crops provided 80% of the daily diet and farms were dozens [^5]
+
+Carving a jack-o-lantern for Halloween? You're a cutting into a winter squash. 
 
 The Three Sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
 
