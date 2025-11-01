@@ -24,7 +24,7 @@ Brothertown people everywhere remember the seasonal rhythm of the matrilineal ha
 
 Long before the modern idea of “preventive health,” the Brothertown Indian Nation (Eeyamquittoowauconnuck), an agricultural people, understood that food was more than sustenance, it was ceremony, communit, and medicine. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
 
-## Three Sisters: corn, beans, and squash
+### Three Sisters: corn, beans, and squash
 
 ![Three Sisters by the water](/assets/Three-Sisters-Corn-Beans-Squash.png)
 
@@ -59,24 +59,27 @@ Community gardens, seed-saving programs, and traditional cooking workshops can b
 
 This month, try: 
 - Cooking with corn, beans, and squash, the same foods that sustained our ancestors. 
-- Prepare a pot of [Three Sisters stew](https://rollingharvest.org/2020/11/01/three-sisters-stew/#:~:text=Three%20Sisters'%20stew%20is%20a%20Native%20American,vary%20based%20on%20ingredients%20and%20products%20used.), or simply give thanks for the harvest. - Sharing a Brothertown [Wild Rice and Cranberries recipe](https://brothertownindians.org/wp-content/uploads/2022/05/Recipe-Wild-Rice-and-Cranberries.pdf).
-- Curious about your own health? Talk to your health care provider and take a [Risk Test](https://diabetes.org/diabetes-risk-test) to find out if you are at increased risk for having type 2 diabetes. 
+- Preparing a pot of [Three Sisters stew](https://rollingharvest.org/2020/11/01/three-sisters-stew/#:~:text=Three%20Sisters'%20stew%20is%20a%20Native%20American,vary%20based%20on%20ingredients%20and%20products%20used.), or simply give thanks for the harvest. 
+- Sharing a Brothertown [Wild Rice and Cranberries recipe](https://brothertownindians.org/wp-content/uploads/2022/05/Recipe-Wild-Rice-and-Cranberries.pdf).
+- Getting involved with the [Intertribal Lake Winnebago Wild Rice Revitalization Project](https://wildricerevitalization.wordpress.com/getinvolved/)
+- Talking to your health care provider about diabetes and take a [Risk Test](https://diabetes.org/diabetes-risk-test) to find out if you are at increased risk for having type 2 diabetes. 
 
-Simple steps, like cooking with whole, non-starchy vegetables or replacing refined sugars with berries, can connect us in small ways with Indigenous dietary practices while protecting ourselves from harm.
+Simple steps, like cooking with whole, non-starchy vegetables or replacing refined sugars with berries, can connect us in small ways with Indigenous dietary practices.
 
 Each act of choosing traditional foods is an act of remembrance, resilience, and renewal of our health. This month, try celebrating this indigenous food tradition. At the same time, you're safeguarding against type 2 diabetes.
 
+---
 _Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
 ### Other resources:
- 
+
 - [Lake Winnebago wild rice restoration project continues despite federal funding cut – WPR](https://brothertownindians.org/2025/10/28/lake-winnebago-wild-rice-restoration-project-continues-despite-federal-funding-cut-wpr/)
 
 ## Sources
 
-[^1]: [Improving Health in Indian Country (CDC)](https://www.cdc.gov/diabetes/health-equity/health-american-indian.html)
+[^1]: [Improving Health in Indian Country](https://www.cdc.gov/diabetes/health-equity/health-american-indian.html) from the CDC.
 
-[^2]: [Disparities](https://www.ihs.gov/newsroom/factsheets/disparities/) by the Indian Health Service.
+[^2]: [Disparities](https://www.ihs.gov/newsroom/factsheets/disparities/) from the Indian Health Service.
 
 [^3]: [Understanding Type 2 Diabetes](https://diabetes.org/about-diabetes/type-2) from the American Diabetes Association.
 
