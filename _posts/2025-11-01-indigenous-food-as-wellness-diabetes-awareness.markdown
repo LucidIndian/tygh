@@ -31,7 +31,11 @@ Long before the modern idea of something like type 2 diabetes, we understood tha
 
 ![Three Sisters by the water](/assets/Three-Sisters-Corn-Beans-Squash.png)
 
-Among the most enduring symbols of Indigenous American agriculture are the Three Sisters: corn, beans, and squash. Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture.[^4] In one tribe, the Three Sisters crops provided 80% of the daily diet.[^5] Carving a jack-o-lantern for Halloween? You're a cutting into a winter squash. 
+Among the most enduring symbols of Indigenous American agriculture are the Three Sisters: corn, beans, and squash. Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture.[^4] 
+
+In one tribe, the Three Sisters crops provided 80% of the daily diet and there were over 40 documented ways to prepare them alone or together.[^6] 
+
+Did you carve a jack-o-lantern for Halloween? If you did, you a cut into a winter squash. 
 
 The Three Sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
 
@@ -60,7 +64,7 @@ Community gardens, seed-saving programs, and traditional cooking workshops can b
 
 ## Calls to Action for November
 
-This month, try: 
+This month, try:  
 - Cooking with corn, beans, and squash, the same foods that sustained our ancestors. Any extra pumpkins out there? 
   - [Winter Squash: What is it? How to Cook it](https://www.youtube.com/watch?v=Zh8nN-iNL0A)
   - [How To Roast Pumpkin Seeds The Right Way](https://www.thepioneerwoman.com/food-cooking/recipes/a9651/pepitos/)
