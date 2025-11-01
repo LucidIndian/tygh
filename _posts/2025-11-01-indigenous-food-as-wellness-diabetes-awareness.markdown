@@ -6,6 +6,8 @@ categories: [Indigenous Wellness]
 tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 ---
 
+![Three Sisters by the water](/assets/Three-Sisters-Corn-Beans-Squash.png)
+
 > "American Indian and Alaska Native adults are almost 3 times more likely 
 > to have and die from type 2 diabetes compared to White adults" [^1] [^2]
 
