@@ -1,20 +1,19 @@
 ---
 layout: post
 title:  "November - Indigenous Food as Wellness & Diabetes Awareness"
-date:   2025-10-24 00:03:46 -0700
+date:   2025-11-01 00:01:00 -0700
 categories: [Indigenous Wellness, Brothertown Indian Nation]
 tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 ---
 
-"American Indian and Alaska Native adults are almost 3 times more likely to have type 2 diabetes compared to White adults." [^1]
+> "American Indian and Alaska Native adults are almost 3 times more likely 
+> to have type 2 diabetes compared to White adults." [^1]
 
 >"In type 2 diabetes, your body does not use insulin properly...Over time, your pancreas can’t make enough insulin to 
 > keep your blood glucose at normal levels. Type 2 diabetes develops most often in middle-aged and older adults but 
 > is increasing in young people." [^2]
 
 November, both Native American Heritage Month and National Diabetes Awareness Month, invites us to reflect on the wisdom of our ancestors, about eating for health and life.
-
-_Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
 ## The harvest is finished
 
@@ -68,6 +67,7 @@ Each act of choosing traditional foods is an act of remembrance, resilience, and
 - [The Intertribal Lake Winnebago Wild Rice Revitalization Project](https://wildricerevitalization.wordpress.com/)
 - [Lake Winnebago wild rice restoration project continues despite federal funding cut – WPR](https://brothertownindians.org/2025/10/28/lake-winnebago-wild-rice-restoration-project-continues-despite-federal-funding-cut-wpr/)
 
+_Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
 <!-- ## Thanksgiving Meal vs. Indigenous Three Sisters Meal
 
