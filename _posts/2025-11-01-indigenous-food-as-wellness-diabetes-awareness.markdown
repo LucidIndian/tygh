@@ -2,7 +2,7 @@
 layout: post
 title:  "November - Indigenous Food as Wellness & Diabetes Awareness"
 date:   2025-11-01 00:01:00 -0700
-categories: [Indigenous Wellness, Brothertown Indian Nation]
+categories: [Indigenous Wellness]
 tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 ---
 
