@@ -47,7 +47,7 @@ Compared to other foods of the Standard American Diet, their relatively lower gl
 - berries ~25–40 (Low)
 
 
-Wild rice may take longer to cook but it has a lower glycemic index of ~45 (Low) compared to white rice at ~70 (high) [^]
+Wild rice may take longer to cook but it has a lower glycemic index of ~45 (Low) compared to white rice at ~70 (high) [^6]
 
 Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a deadly and preventable diet-related disease.
 
@@ -85,7 +85,7 @@ _Disclaimer: This article is intended for educational and cultural purposes only
 
 [^5]: [Historical Indigenous Food Preparation Using Produce of the Three Sisters Intercropping System](https://www.mdpi.com/2304-8158/10/3/524) by Tania M. Ngapo et.al.
 
-[^6] [How to Make Wild Rice with Cranberries and Almonds](https://diabetesfoodhub.org/recipes/wild-rice-cranberries-and-almonds) from the American Diabetes Association.
+[^6]: [How to Make Wild Rice with Cranberries and Almonds](https://diabetesfoodhub.org/recipes/wild-rice-cranberries-and-almonds) from the American Diabetes Association.
 
 <!-- ## Thanksgiving Meal vs. Indigenous Three Sisters Meal
 
