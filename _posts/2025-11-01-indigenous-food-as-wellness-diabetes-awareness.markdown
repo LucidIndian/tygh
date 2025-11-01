@@ -37,7 +37,7 @@ Reviving traditional food practices isn’t merely about nostalgia, it’s about
 
 The causes are complex but the diabetes disparity Indigenous people face is likely rooted in how foods and lifestyles were altered through colonization, displacement from ancestral lands, loss of traditional food systems, exposure to processed and deficient foods, limited access to fresh produce, and economic barriers. 
 
-Today, we know that a diet that is plant-based and low-carbohydrate has been linked with lower risk of premature death for people with type 2 diabetes. [] 
+Today, we know that a diet that is plant-based and low-carbohydrate has been linked with lower risk of premature death for people with type 2 diabetes. [^5] 
 
 Community gardens, seed-saving programs, and traditional cooking workshops can become other key parts of this nutritional revival; but it seems like we must start eating differently, perhaps more indigenously, to reclaim of health. Simple steps, like cooking with whole vegetables or replacing refined sugars with berries, can reconnect us in small ways with ancestral practices while protecting us from harm.
 
@@ -58,9 +58,10 @@ Each act of choosing traditional foods is an act of remembrance, resilience, and
 
 [^3]: The Three Sisters of Indigenous American Agriculture - https://www.nal.usda.gov/collections/stories/three-sisters
 
-[^4]: Historical Indigenous Food Preparation Using Produce of the Three Sisters Intercropping System - https://www.mdpi.com/2304-8158/10/3/524
+[^4]: [Historical Indigenous Food Preparation Using Produce of the Three Sisters Intercropping System](https://www.mdpi.com/2304-8158/10/3/524)
 
-[^5]: The Intertribal Lake Winnebago Wild Rice Revitalization Project - https://wildricerevitalization.wordpress.com/
+[^5]: [Low-Carbohydrate Diet Scores and Mortality Among Adults With Incident Type 2 Diabetes](https://hsph.harvard.edu/news/plant-based-low-carbohydrate-diet-linked-with-lower-risk-of-premature-death-for-people-with-type-2-diabetes/)
+
 
 ### Other related links:
  
