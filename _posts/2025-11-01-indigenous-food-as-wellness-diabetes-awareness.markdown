@@ -6,8 +6,6 @@ categories: [Indigenous Wellness]
 tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 ---
 
-November, both Native American Heritage Month and National Diabetes Awareness Month, invites us to reflect on the wisdom of our ancestors, about eating for health and life.
-
 > "American Indian and Alaska Native adults are almost 3 times more likely 
 > to have type 2 diabetes compared to White adults." [^1]
 
@@ -15,31 +13,35 @@ November, both Native American Heritage Month and National Diabetes Awareness Mo
 > keep your blood glucose at normal levels. Type 2 diabetes develops most often in middle-aged and older adults but 
 > is increasing in young people." [^2]
 
+November, both Native American Heritage Month and National Diabetes Awareness Month, invites us to reflect on the wisdom of our ancestors, about eating for health and life.
+
 The causes are complex but the diabetes disparity Indigenous people face is likely rooted in how foods and lifestyles were altered through colonization, displacement from ancestral lands, loss of traditional food systems, exposure to processed and deficient foods, limited access to fresh produce, and economic barriers. 
 
 ## The harvest is finished
 
-Brothertown people everywhere remember the seasonal rhythm of the matrilineal harvest. Whether in New England, New York, or Wisconsin, each of these historic Brothertown lands express the same natural shift; the days shorten and darken, animals migrate or hibernate, and the first frosts are found resting on our homes and gardens; rendering them still.
+Brothertown people everywhere remember the seasonal rhythm of the matrilineal harvest. Whether in New England, New York, or Wisconsin, each of these historic places express a similar natural shift; the days shorten and darken, animals migrate or hibernate, and the first frosts are found resting on our homes and gardens; rendering them still.
 
-Long before the modern idea of “preventive health,” the Brothertown Indian Nation (Eeyamquittoowauconnuck), an agricultural people, understood that food was more than sustenance, it was medicine, ceremony, and community. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
+Long before the modern idea of “preventive health,” the Brothertown Indian Nation (Eeyamquittoowauconnuck), an agricultural people, understood that food was more than sustenance, it was ceremony, communit, and medicine. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
 
-## The Three Sisters: corn, beans, and squash
+## Three Sisters: corn, beans, and squash
 
-Among the most enduring symbols of Indigenous American agriculture and nutrition are the Three Sisters: sweet corn, pole beans, and squash. Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture. [^3] 
+Among the most enduring symbols of Indigenous American agriculture are the Three Sisters: corn, beans, and squash. Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture. [^3] 
 
 The three sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
 
-When I close my eyes and image a typical meal of these items on my plate: a steaming pile of green and purple beans, strips of deep orange and yellow squash boiled tender and warm, colorful corn on the cob roasted or even popped, a helping of hot, earth-toned rice besides a dark berry sauce, I see how "healthy" though how relatively "plain" it could appear: whole plants boiled or baked, few ingredients, no garnishes nor additives, organic, local, produced by my relatives. 
+When I close my eyes and image a typical meal of these items on my plate: a steaming pile of green and purple beans, strips of deep orange and yellow squash boiled tender and warm, colorful corn on the cob roasted or even popped on hot coals, a helping of hot earth-toned rice besides a dark berry sauce, I can see and even smell how "healthy" though relatively "plain" it could appear: whole plants, few ingredients, no additives, organic, local, produced by my relatives. 
+
+## Indigenous Food as Wellness
+
+Today, we know a plant-based and low-carbohydrate diet has been linked with lower risk of premature death for people with type 2 diabetes[^5] and he three sisters seems like a perfect match! 
 
 Besides being a hearty meal, the nutritional quality of the Three Sisters are complementary. Corn is a source of carbohydrates, protein and oils, but the protein is lacking in the amino acids, lysine and tryptophan. Beans provide the missing amino acids. Squash is a source of carbohydrates and more protein if the seeds are consumed. All three vegetables are high in fiber and together, provide a range of minerals and vitamins. [^4]
-
-## Food as Wellness
-
-Today, we know that a diet that is plant-based and low-carbohydrate has been linked with lower risk of premature death for people with type 2 diabetes. [^5] Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a life-threatening and preventable, diet-related disease. 
 
 Community gardens, seed-saving programs, and traditional cooking workshops can become other key parts of this nutritional revival; but it seems like we must start eating differently, perhaps more indigenously, to reclaim of health. Simple steps, like cooking with whole vegetables or replacing refined sugars with berries, can reconnect us in small ways with ancestral practices while protecting us from harm.
 
 ## Calls to Action
+
+Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a life-threatening and preventable, diet-related disease. 
 
 This month, try: 
 - Cooking with corn, beans, and squash, the same foods that sustained our ancestors. 
@@ -47,6 +49,8 @@ This month, try:
 - Curious about your own health? Take a [Risk Test](https://diabetes.org/diabetes-risk-test) to find out if you are at increased risk for having type 2 diabetes. 
 
 Each act of choosing traditional foods is an act of remembrance, resilience, and renewal of our health. This month, try returning in your own way to the food traditions of Eeyamquittoowauconnuck and at the same time, you are safeguarding you and your family against type 2 diabetes.
+
+_Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
 ### Other links:
  
