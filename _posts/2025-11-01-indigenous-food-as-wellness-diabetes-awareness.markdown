@@ -31,15 +31,15 @@ Among the most enduring symbols of Indigenous American agriculture are the Three
 
 The three sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
 
-## Indigenous food as wellness?
+## Indigenous food as diabetes prevention?
 
 Today, we know a plant-based and low-carbohydrate diet has been linked with lower risk of premature death for people with type 2 diabetes[^5]. The three sisters seems like a perfect match! 
 
-When I close my eyes and image a typical meal of these items on my plate: a steaming pile of green and purple beans, strips of deep orange and yellow squash boiled tender and warm, colorful corn on the cob roasted or even popped on hot coals, a pile of hot earth-toned wild rice beside a dark berry sauce, I can see and even smell how "healthy" though relatively "plain" it could appear: whole plants, few ingredients, no additives, organic, local, produced by my relatives. 
+When I close my eyes and image a typical Indigenous meal of these items on my plate: a steaming pile of whole beans, strips of deep orange and yellow squash some boiled tender and warm and some smashed with corn to make a patty, colorful corn on the cob roasted or even popped on hot coals, a pile of hot earth-toned wild rice beside a dark berry sauce, I can see and even smell how "healthy" though relatively "plain" it could appear: whole plant parts, few ingredients, no additives, all organic, locally sourced, produced by relatives.
 
 Besides being a hearty meal, the nutritional quality of the Three Sisters are complementary. Corn is a source of carbohydrates, protein and oils, but the protein is lacking in the amino acids, lysine and tryptophan. Beans provide the missing amino acids. Squash is a source of carbohydrates and more protein if the seeds are consumed. All three vegetables are high in fiber and together, provide a range of minerals and vitamins. [^6]
 
-A compared to a typical American Thanksgiving meal, a hypothetical traditional meal of corn, beans, squash, wild rice, and berries is lower in calories, plant-based and fiber-rich.
+A compared to a customary American Thanksgiving meal, a meal of corn, beans, squash, wild rice, and berries is lower in calories, plant-based and more rish in fiber.
 
 Compared to other foods of the Standard American Diet, their relatively lower glycemic index of these foods the ensures slower, steady glucose and insulin response: 
 - corn ~55 (Low/Medium)
@@ -48,9 +48,9 @@ Compared to other foods of the Standard American Diet, their relatively lower gl
 - wild rice ~45 (Low)
 - berries ~25–40 (Low)
 
-Wild rice may take longer to cook but it has a lower glycemic index of ~45 (Low) compared to white rice at ~70 (high) [^7]
+Wild rice may take longer to cook but it has a lower glycemic index of ~45 (Low) compared to white rice at ~70 (high). [^7]
 
-Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a deadly and preventable diet-related disease.
+Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a deadly and preventable disease related to the food we eat every day.
 
 Community gardens, seed-saving programs, and traditional cooking workshops can become other key parts of a nutritional-health revival. We must start eating differently, perhaps more indigenously, to reclaim our diabetes-free wellness we once had.
 
@@ -67,7 +67,7 @@ Each act of choosing traditional foods is an act of remembrance, resilience, and
 
 _Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
-### Other links:
+### Other resources:
  
 - [Lake Winnebago wild rice restoration project continues despite federal funding cut – WPR](https://brothertownindians.org/2025/10/28/lake-winnebago-wild-rice-restoration-project-continues-despite-federal-funding-cut-wpr/)
 
