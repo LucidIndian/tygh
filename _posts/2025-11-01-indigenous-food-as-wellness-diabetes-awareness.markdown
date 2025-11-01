@@ -17,25 +17,26 @@ Brothertown people everywhere remember the seasonal rhythm of the matrilineal ha
 
 Long before the modern idea of “preventive health,” the Brothertown Indian Nation (Eeyamquittoowauconnuck), an agricultural people, understood that food was more than sustenance, it was medicine, ceremony, and community. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
 
-### The Wisdom of the Three Sisters
+## The Three Sisters as Food 
 
-Among the most enduring symbols of successful Indigenous American nutrition are the Three Sisters: corn, beans, and squash.[^3] Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture. This agricultural arrangement mirrors the values of interdependence and harmony that shape Brothertown life. 
+Among the most enduring symbols of Indigenous American culture and nutrition are the Three Sisters: corn, beans, and squash.[^3] Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture. 
 
-The three sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that supported balance and health. When I close my eyes and image a meal of these items on my plate, I see how "healthy" this would appear: whole foods, plant-based, few ingredients, no additives, organic, local, produced by my female relatives. I contrast that with a typical November meal of the Standard American Diet; turkey, . Together, they form a complete and balanced source of carbohydrates, fiber, and plant-based protein. Eating these foods regularly can help regulate blood sugar levels, support heart health, and provide sustained energy—all important factors in diabetes prevention.
+The three sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
 
-The Thanksgiving plate is 3× higher in calories, 15–30× higher in fat, and loaded with refined carbs and added sugars, increasing risks for weight gain, insulin resistance, and heart disease.
-The Indigenous meal is lean, nutrient-dense, and anti-inflammatory, supporting gut health, stable blood sugar, and traditional ecological harmony via the “Three Sisters” intercropping system.
+When I close my eyes and image a meal of these items on my plate: a steaming pile of green and purple beans, strips of deep orange and yellow squash boiled tender and warm, colorful corn on the cob roasted or even popped, a helping of hot, earth-toned rice besides a dark berry sauce, I see how "healthy" though how relatively "plain" it could appear: whole plants boiled or baked, few ingredients, no garnishes nor additives, organic, local, produced by my relatives. 
 
-These foods provided complete nutrition and reflected the values of reciprocity and respect for the land.
+Besides being a hearty meal, the nutritional quality of the Three Sisters are complementary. Corn is a source of carbohydrates, protein and polyunsaturated oils, but the protein is lacking in the amino acids, lysine and tryptophan. Beans make up for it by providing the missing lysine and tryptophan. Squash is a source of carbohydrates and more protein if the seeds are consumed. All three vegetables are high in fiber and together, provide a range of importanr minerals and vitamins. [^4]
 
-## Thanksgiving Meal vs. Indigenous Three Sisters Meal
+<!-- ## Thanksgiving Meal vs. Indigenous Three Sisters Meal
 
-A standard American Thanksgiving meal could be between 2,500–3,500 kcal, is calorie-dense and fat-heavy, 300–350 g carbs, 60–70 g protein, 140–160 g fat, and 70–90 g added sugars. Dominant carb sources—mashed potatoes (GI ~80), bread stuffing (~70–75), and pumpkin pie (~65)—yield a medium-to-high glycemic index, promoting rapid blood sugar spikes.
+A standard American Thanksgiving meal could be between 2,500–3,500 kcal, is calorie-dense and fat-heavy, 300–350 g carbs, 60–70 g protein, 140–160 g fat, and could have 70–90 g added sugars. Main carbohydrate sources yield a medium-to-high glycemic index, promoting rapid blood sugar spikes:
 - mashed potatoes (~80)
 - bread stuffing (~70–75)
 - pumpkin pie (~65)
 
-In contrast, a traditional Indigenous meal of corn, beans, squash, wild rice, and berries is lower in calories, plant-based and fiber-rich, providing around 150–170 g carbs, 35–45 g protein, 5–10 g fat, and 20–30 g natural sugars. Its lower glycemic index ensures slow, steady energy release: 
+In contrast, a traditional Indigenous meal of corn, beans, squash, wild rice, and berries is lower in calories (~850–950 kcal), plant-based and fiber-rich, providing around 150–170 g carbs, 35–45 g protein, 5–10 g fat, and 20–30 g natural sugars. 
+
+Its lower glycemic index ensures slow, steady energy release: 
 - beans (~30)
 - wild rice (~45)
 - squash (~50)
@@ -44,13 +45,13 @@ In contrast, a traditional Indigenous meal of corn, beans, squash, wild rice, an
 
 The standard American Thanksgiving plate is 3× higher in calories, 15–30× higher in fat, and loaded with refined carbs and added sugars while the Indigenous meal is lean, nutrient-dense, supporting health, and stable blood sugar.
 
-Modern health trends should favor reviving Indigenous foods; studies show lower diabetes rates among Native communities consuming traditional diets. For balance, lighten the Thanksgiving plate (skinless turkey, less gravy) or enrich the Indigenous meal with lean protein. Either way, prioritizing whole foods and fiber over processed fats and sugars yields lasting benefits.
+Modern health trends should favor reviving Indigenous foods; studies show lower diabetes rates among Native communities consuming traditional diets. For balance, lighten the Thanksgiving plate (skinless turkey, less gravy) or enrich the Indigenous meal with lean protein. Either way, prioritizing whole foods and fiber over processed fats and sugars yields lasting benefits. -->
 
-## Wild Rice and Berries: The Superfoods of the Great Lakes
+### Wild Rice of the Great Lakes
 
-In Wisconsin and the surrounding region, wild rice (manoomin) and berries, especially blueberries, raspberries, and chokecherries, have long been part of the Brothertown seasonal diet. Berries, with their deep colors, are full of antioxidants that reduce inflammation and help the body process sugar more effectively. Wild rice is rich in complex carbohydrates, fiber, and essential minerals while remaining low to moderate on the glycemic index. 
+In Wisconsin and the surrounding region, wild rice (manoomin) have long been part of the Brothertown seasonal diet. Wild rice is rich in complex carbohydrates, fiber, and essential minerals while remaining low to moderate on the glycemic index. 
 
-There's an ongoing project to restore wild rice to Lake Winnebago. [^4]
+There's an ongoing project to restore wild rice to Lake Winnebago. [^5]
 
 These foods are not just nutritionally powerful—they are spiritual foods. They remind us of the lakes, forests, and wetlands that sustained our ancestors and continue to connect us to place and purpose.
 
@@ -86,7 +87,9 @@ Curious about type 2 diabetes? Take a [Risk Test](https://diabetes.org/diabetes-
 
 [^3]: The Three Sisters of Indigenous American Agriculture - https://www.nal.usda.gov/collections/stories/three-sisters
 
-[^4]: The Intertribal Lake Winnebago Wild Rice Revitalization Project - https://wildricerevitalization.wordpress.com/
+[^4]: Historical Indigenous Food Preparation Using Produce of the Three Sisters Intercropping System - https://www.mdpi.com/2304-8158/10/3/524
+
+[^5]: The Intertribal Lake Winnebago Wild Rice Revitalization Project - https://wildricerevitalization.wordpress.com/
 
 ### Other related links:
  
