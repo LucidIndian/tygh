@@ -21,11 +21,11 @@ The causes are complex but this disparity is likely rooted in how foods and life
 
 ## The harvest is finished
 
-Brothertown people everywhere remember the seasonal rhythm of the matrilineal harvest. Whether in New England, New York, or Wisconsin, each of these historic places express a similar natural shift; the days shorten and darken, animals migrate or hibernate, and the first frosts are found resting on our homes and gardens; rendering them still.
+The people of Eeyamquittoowauconnuck (The Brothertown Indian Nation), an agricultural people,  remember the seasonal rhythm of the matrilineal harvest. Whether in New England, New York, or Wisconsin, each of these historic places express a similar natural shift; the days shorten and darken, animals migrate or hibernate, and the first frosts are found resting on our homes and gardens; rendering them still, lifeless.
 
-The first frost, which occurs from late September through early November in these regions and marks the end of the growing season. The water inside plants turn into ice crystals at 32-degrees, causing cells and tissues to rupture and perish. New shoots and flowers cannot survive the harsh North American winters.  
+The first frost, which occurs from late September through early November in these regions, marks the end of the growing season. The water inside plants turn into ice crystals at 32-degrees, causing cells to rupture and perish. New shoots and flowers cannot survive the harsh North American winter.  
 
-Long before the modern idea of something like diabetes the Brothertown Indian Nation (Eeyamquittoowauconnuck), an agricultural people, understood that food was more than sustenance, it was ceremony, community, and medicine, that flowed in rhythm with the yearly cycle. They stored their harvests to prepare for an sustain themselves through the long and cold winters. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
+Long before the modern idea of something like type 2 diabetes, we understood that food was more than sustenance, it was ceremony, community, and medicine, which flowed in rhythm with the yearly cycle. The harvest is finished but not lost, to be stored in order to sustain the community until new harvests are made the following season. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
 
 ### Three Sisters: corn, beans, and squash
 
@@ -33,7 +33,9 @@ Long before the modern idea of something like diabetes the Brothertown Indian Na
 
 Among the most enduring symbols of Indigenous American agriculture are the Three Sisters: corn, beans, and squash. Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture. [^4] 
 
-The three sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
+It's difficult now not to notice the connection of the otherwise non-Indigenous activity of carving jack-o-lanterns and a pumpkins, a winter squash, and one of the Three Sisters.
+
+The Three Sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
 
 ## Indigenous food as diabetes prevention?
 
@@ -61,7 +63,9 @@ Community gardens, seed-saving programs, and traditional cooking workshops can b
 ## Calls to Action for November
 
 This month, try: 
-- Cooking with corn, beans, and squash, the same foods that sustained our ancestors. 
+- Cooking with corn, beans, and squash, the same foods that sustained our ancestors. Any extra pumpkins out there? 
+  - [Winter Squash: What is it? How to Cook it](https://www.youtube.com/watch?v=Zh8nN-iNL0A)
+  - [How To Roast Pumpkin Seeds The Right Way](https://www.thepioneerwoman.com/food-cooking/recipes/a9651/pepitos/)
 - Preparing a pot of [Three Sisters stew](https://rollingharvest.org/2020/11/01/three-sisters-stew/#:~:text=Three%20Sisters'%20stew%20is%20a%20Native%20American,vary%20based%20on%20ingredients%20and%20products%20used.), or simply give thanks for the harvest. 
 - Sharing a Brothertown [Wild Rice and Cranberries recipe](https://brothertownindians.org/wp-content/uploads/2022/05/Recipe-Wild-Rice-and-Cranberries.pdf).
 - Getting involved with the [Intertribal Lake Winnebago Wild Rice Revitalization Project](https://wildricerevitalization.wordpress.com/getinvolved/)
