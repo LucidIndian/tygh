@@ -14,6 +14,7 @@ tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 > is increasing in young people." [^3]
 
 November, both Native American Heritage Month and National Diabetes Awareness Month, invites us to reflect on the wisdom of our ancestors, about eating for health and life.
+
 _Why do Indigenous people disproportionally suffer and die from diabetes?_
 
 The causes are complex but this disparity is likely rooted in how foods and lifestyles were altered through colonization, displacement from ancestral lands, loss of traditional food systems, exposure to processed and deficient foods, limited access to fresh produce, and economic barriers. 
@@ -22,7 +23,9 @@ The causes are complex but this disparity is likely rooted in how foods and life
 
 Brothertown people everywhere remember the seasonal rhythm of the matrilineal harvest. Whether in New England, New York, or Wisconsin, each of these historic places express a similar natural shift; the days shorten and darken, animals migrate or hibernate, and the first frosts are found resting on our homes and gardens; rendering them still.
 
-Long before the modern idea of “preventive health,” the Brothertown Indian Nation (Eeyamquittoowauconnuck), an agricultural people, understood that food was more than sustenance, it was ceremony, communit, and medicine. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
+The first frost, which occurs from late September through early November in these regions and marks the end of the growing season. The water inside plants turn into ice crystals at 32-degrees, causing cells and tissues to rupture and perish. New shoots and flowers cannot survive the harsh North American winters.  
+
+Long before the modern idea of something like diabetes the Brothertown Indian Nation (Eeyamquittoowauconnuck), an agricultural people, understood that food was more than sustenance, it was ceremony, community, and medicine, that flowed in rhythm with the yearly cycle. They stored their harvests to prepare for an sustain themselves through the long and cold winters. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
 
 ### Three Sisters: corn, beans, and squash
 
