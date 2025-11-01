@@ -6,11 +6,8 @@ categories: [Indigenous Wellness]
 tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 ---
 
-![Three Sisters by the water](/assets/Three-Sisters-Corn-Beans-Squash.png)
-
 > "American Indian and Alaska Native adults are almost 3 times more likely 
 > to have and die from type 2 diabetes compared to White adults" [^1] [^2]
-
 
 >"In type 2 diabetes, your body does not use insulin properly...Over time, your pancreas can’t make enough insulin to 
 > keep your blood glucose at normal levels. Type 2 diabetes develops most often in middle-aged and older adults but 
@@ -28,6 +25,8 @@ Brothertown people everywhere remember the seasonal rhythm of the matrilineal ha
 Long before the modern idea of “preventive health,” the Brothertown Indian Nation (Eeyamquittoowauconnuck), an agricultural people, understood that food was more than sustenance, it was ceremony, communit, and medicine. <!-- From the earliest days of our people’s journey, when families from the Mohegan, Pequot (western), Pequot (eastern), Niantic, Narragansett, Montaukett, and Tunxis tribes united to form the Brothertown Nation, food symbolized both survival and belonging. -->
 
 ## Three Sisters: corn, beans, and squash
+
+![Three Sisters by the water](/assets/Three-Sisters-Corn-Beans-Squash.png)
 
 Among the most enduring symbols of Indigenous American agriculture are the Three Sisters: corn, beans, and squash. Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture. [^4] 
 
