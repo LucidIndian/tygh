@@ -48,7 +48,14 @@ This month, try:
 - Prepare a pot of [Three Sisters stew](https://rollingharvest.org/2020/11/01/three-sisters-stew/#:~:text=Three%20Sisters'%20stew%20is%20a%20Native%20American,vary%20based%20on%20ingredients%20and%20products%20used.), or simply give thanks for the harvest. - Try a Brothertown [Wild Rice and Cranberries recipe](https://brothertownindians.org/wp-content/uploads/2022/05/Recipe-Wild-Rice-and-Cranberries.pdf).
 - Curious about your own health? Take a [Risk Test](https://diabetes.org/diabetes-risk-test) to find out if you are at increased risk for having type 2 diabetes. 
 
-Each act of choosing traditional foods is an act of remembrance, resilience, and renewal of our health. This month, try returning in your own way to the food traditions of Eeyamquittoowauconnuck and at the same time, you are safeguarding your family against type 2 diabetes.
+Each act of choosing traditional foods is an act of remembrance, resilience, and renewal of our health. This month, try returning in your own way to the food traditions of Eeyamquittoowauconnuck and at the same time, you are safeguarding you and your family against type 2 diabetes.
+
+### Other links:
+ 
+- [The Intertribal Lake Winnebago Wild Rice Revitalization Project](https://wildricerevitalization.wordpress.com/)
+- [Lake Winnebago wild rice restoration project continues despite federal funding cut – WPR](https://brothertownindians.org/2025/10/28/lake-winnebago-wild-rice-restoration-project-continues-despite-federal-funding-cut-wpr/)
+
+_Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
 ## Sources
 
@@ -62,13 +69,6 @@ Each act of choosing traditional foods is an act of remembrance, resilience, and
 
 [^5]: [Low-Carbohydrate Diet Scores and Mortality Among Adults With Incident Type 2 Diabetes](https://hsph.harvard.edu/news/plant-based-low-carbohydrate-diet-linked-with-lower-risk-of-premature-death-for-people-with-type-2-diabetes/)
 
-
-### Other related links:
- 
-- [The Intertribal Lake Winnebago Wild Rice Revitalization Project](https://wildricerevitalization.wordpress.com/)
-- [Lake Winnebago wild rice restoration project continues despite federal funding cut – WPR](https://brothertownindians.org/2025/10/28/lake-winnebago-wild-rice-restoration-project-continues-despite-federal-funding-cut-wpr/)
-
-_Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
 <!-- ## Thanksgiving Meal vs. Indigenous Three Sisters Meal
 
