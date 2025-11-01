@@ -61,11 +61,11 @@ _Disclaimer: This article is intended for educational and cultural purposes only
 
 ## Sources
 
-[^1]: Improving Health in Indian Country (CDC) - https://www.cdc.gov/diabetes/health-equity/health-american-indian.html
+[^1]: [Improving Health in Indian Country (CDC)](https://www.cdc.gov/diabetes/health-equity/health-american-indian.html)
 
-[^2]: Understanding Type 2 Diabetes (American Diabetes Association) - https://diabetes.org/about-diabetes/type-2
+[^2]: [Understanding Type 2 Diabetes (American Diabetes Association)](https://diabetes.org/about-diabetes/type-2)
 
-[^3]: The Three Sisters of Indigenous American Agriculture - https://www.nal.usda.gov/collections/stories/three-sisters
+[^3]: [The Three Sisters of Indigenous American Agriculture](https://www.nal.usda.gov/collections/stories/three-sisters)
 
 [^4]: [Historical Indigenous Food Preparation Using Produce of the Three Sisters Intercropping System](https://www.mdpi.com/2304-8158/10/3/524)
 
