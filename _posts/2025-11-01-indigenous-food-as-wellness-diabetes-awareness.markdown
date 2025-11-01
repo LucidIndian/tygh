@@ -43,13 +43,11 @@ The Three Sisters, along with wild rice, berries, and wild game were grown, gath
 
 Today, we know a plant-based and low-carbohydrate diet has been linked with lower risk of premature death for people with type 2 diabetes[^5]. The three sisters seems like a perfect match! 
 
-When I close my eyes and image a typical Indigenous meal of these items on my plate: a steaming pile of whole beans, strips of deep orange and yellow squash some boiled tender and warm and some smashed with corn to make a patty, colorful corn on the cob roasted or even popped on hot coals, a pile of hot earth-toned wild rice beside a dark berry sauce, I can see and even smell how "healthy" though relatively "plain" it could appear: whole plant parts, few ingredients, no additives, all organic, locally sourced, produced by relatives.
+I close my eyes and image an Indigenous meal of these foods on my plate: a steaming pile of whole beans, strips of deep orange and yellow squash some boiled tender and warm and some smashed with corn to make a patty, colorful corn on the cob roasted or even popped on hot coals, a scoop of wild rice beside a dark berry sauce. I can see and even smell how "healthy" though relatively "plain" it could taste: whole plant parts, few ingredients, no artifical additives, not overly seasoned, all organic, locally sourced, produced by relatives.
 
 Besides being a hearty meal, the nutritional quality of the Three Sisters are complementary. Corn is a source of carbohydrates, protein and oils, but the protein is lacking in the amino acids, lysine and tryptophan. Beans provide the missing amino acids. Squash is a source of carbohydrates and more protein if the seeds are consumed. All three vegetables are high in fiber and together, provide a range of minerals and vitamins. [^6]
 
-A compared to a customary American Thanksgiving meal, a meal of corn, beans, squash, wild rice, and berries is lower in calories, plant-based and more rich in fiber.
-
-Compared to other foods of the Standard American Diet, their relatively lower glycemic index ensures a slower, more steady glucose and insulin response: 
+Compared to other foods of the Standard American Diet, especially customary American Thanksgiving dinner, their relatively lower glycemic index ensures a slower, more steady glucose and insulin response: 
 - corn ~55 (Low/Medium)
 - beans ~30 (Low)
 - squash ~50 (Low)
