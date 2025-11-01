@@ -27,28 +27,31 @@ Long before the modern idea of “preventive health,” the Brothertown Indian N
 
 Among the most enduring symbols of Indigenous American agriculture are the Three Sisters: corn, beans, and squash. Each plant supports the other as they grow. Beans climb the corn’s stalk to get more sun, in turn, fixing nitrogen in the soil for the corn and adding protein to the diet. Squash spreads wide at the base, shading the ground to prevent competition from weeds, preserving moisture. [^3] 
 
-The three sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
-
-When I close my eyes and image a typical meal of these items on my plate: a steaming pile of green and purple beans, strips of deep orange and yellow squash boiled tender and warm, colorful corn on the cob roasted or even popped on hot coals, a helping of hot earth-toned rice besides a dark berry sauce, I can see and even smell how "healthy" though relatively "plain" it could appear: whole plants, few ingredients, no additives, organic, local, produced by my relatives. 
-
 ## Indigenous Food as Wellness
 
-Today, we know a plant-based and low-carbohydrate diet has been linked with lower risk of premature death for people with type 2 diabetes[^5] and he three sisters seems like a perfect match! 
+Today, we know a plant-based and low-carbohydrate diet has been linked with lower risk of premature death for people with type 2 diabetes[^5]. The three sisters seems like a perfect match! 
+
+The three sisters, along with wild rice, berries, and wild game were grown, gathered, and prepared in ways that provided complete nutrition and reflected the values of reciprocity and respect for the land. 
 
 Besides being a hearty meal, the nutritional quality of the Three Sisters are complementary. Corn is a source of carbohydrates, protein and oils, but the protein is lacking in the amino acids, lysine and tryptophan. Beans provide the missing amino acids. Squash is a source of carbohydrates and more protein if the seeds are consumed. All three vegetables are high in fiber and together, provide a range of minerals and vitamins. [^4]
 
-Community gardens, seed-saving programs, and traditional cooking workshops can become other key parts of this nutritional revival; but it seems like we must start eating differently, perhaps more indigenously, to reclaim of health. Simple steps, like cooking with whole vegetables or replacing refined sugars with berries, can reconnect us in small ways with ancestral practices while protecting us from harm.
+When I close my eyes and image a typical meal of these items on my plate: a steaming pile of green and purple beans, strips of deep orange and yellow squash boiled tender and warm, colorful corn on the cob roasted or even popped on hot coals, a pile of hot earth-toned wild rice beside a dark berry sauce, I can see and even smell how "healthy" though relatively "plain" it could appear: whole plants, few ingredients, no additives, organic, local, produced by my relatives. 
+
+Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a life-threatening and preventable, diet-related disease.
+
 
 ## Calls to Action
 
-Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a life-threatening and preventable, diet-related disease. 
+Community gardens, seed-saving programs, and traditional cooking workshops can become other key parts of this nutritional-health revival; but it seems like we must start eating differently, perhaps more indigenously, to reclaim our health and protect ourselves against type 2 diabetes. 
+
+Simple steps, like cooking with whole vegetables or replacing refined sugars with berries, can reconnect us in small ways with ancestral practices while protecting us from harm. 
 
 This month, try: 
 - Cooking with corn, beans, and squash, the same foods that sustained our ancestors. 
-- Prepare a pot of [Three Sisters stew](https://rollingharvest.org/2020/11/01/three-sisters-stew/#:~:text=Three%20Sisters'%20stew%20is%20a%20Native%20American,vary%20based%20on%20ingredients%20and%20products%20used.), or simply give thanks for the harvest. - Try a Brothertown [Wild Rice and Cranberries recipe](https://brothertownindians.org/wp-content/uploads/2022/05/Recipe-Wild-Rice-and-Cranberries.pdf).
-- Curious about your own health? Take a [Risk Test](https://diabetes.org/diabetes-risk-test) to find out if you are at increased risk for having type 2 diabetes. 
+- Prepare a pot of [Three Sisters stew](https://rollingharvest.org/2020/11/01/three-sisters-stew/#:~:text=Three%20Sisters'%20stew%20is%20a%20Native%20American,vary%20based%20on%20ingredients%20and%20products%20used.), or simply give thanks for the harvest. - Sharing a Brothertown [Wild Rice and Cranberries recipe](https://brothertownindians.org/wp-content/uploads/2022/05/Recipe-Wild-Rice-and-Cranberries.pdf).
+- Curious about your own health? Talk to your health care provider and take a [Risk Test](https://diabetes.org/diabetes-risk-test) to find out if you are at increased risk for having type 2 diabetes. 
 
-Each act of choosing traditional foods is an act of remembrance, resilience, and renewal of our health. This month, try returning in your own way to the food traditions of Eeyamquittoowauconnuck and at the same time, you are safeguarding you and your family against type 2 diabetes.
+Each act of choosing traditional foods is an act of remembrance, resilience, and renewal of our health. This month, try celebrating this indigenous food tradition. At the same time, you're safeguarding against type 2 diabetes.
 
 _Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
