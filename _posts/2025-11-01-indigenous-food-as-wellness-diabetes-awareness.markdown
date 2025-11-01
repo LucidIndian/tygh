@@ -6,6 +6,8 @@ categories: [Indigenous Wellness]
 tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 ---
 
+November, both Native American Heritage Month and National Diabetes Awareness Month, invites us to reflect on the wisdom of our ancestors, about eating for health and life.
+
 > "American Indian and Alaska Native adults are almost 3 times more likely 
 > to have type 2 diabetes compared to White adults." [^1]
 
@@ -13,7 +15,7 @@ tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 > keep your blood glucose at normal levels. Type 2 diabetes develops most often in middle-aged and older adults but 
 > is increasing in young people." [^2]
 
-November, both Native American Heritage Month and National Diabetes Awareness Month, invites us to reflect on the wisdom of our ancestors, about eating for health and life.
+The causes are complex but the diabetes disparity Indigenous people face is likely rooted in how foods and lifestyles were altered through colonization, displacement from ancestral lands, loss of traditional food systems, exposure to processed and deficient foods, limited access to fresh produce, and economic barriers. 
 
 ## The harvest is finished
 
@@ -33,15 +35,11 @@ Besides being a hearty meal, the nutritional quality of the Three Sisters are co
 
 ## Food as Wellness
 
-Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a preventable, diet-related disease. 
-
-The causes are complex but the diabetes disparity Indigenous people face is likely rooted in how foods and lifestyles were altered through colonization, displacement from ancestral lands, loss of traditional food systems, exposure to processed and deficient foods, limited access to fresh produce, and economic barriers. 
-
-Today, we know that a diet that is plant-based and low-carbohydrate has been linked with lower risk of premature death for people with type 2 diabetes. [^5] 
+Today, we know that a diet that is plant-based and low-carbohydrate has been linked with lower risk of premature death for people with type 2 diabetes. [^5] Reviving traditional food practices isn’t merely about nostalgia, it’s about reclaiming health and defense against a life-threatening and preventable, diet-related disease. 
 
 Community gardens, seed-saving programs, and traditional cooking workshops can become other key parts of this nutritional revival; but it seems like we must start eating differently, perhaps more indigenously, to reclaim of health. Simple steps, like cooking with whole vegetables or replacing refined sugars with berries, can reconnect us in small ways with ancestral practices while protecting us from harm.
 
-## Call to Action
+## Calls to Action
 
 This month, try: 
 - Cooking with corn, beans, and squash, the same foods that sustained our ancestors. 
