@@ -14,10 +14,7 @@ tags: [Eeyamquittoowauconnuck, Brothertown Indian Nation, Diabetes]
 
 November, both Native American Heritage Month and National Diabetes Awareness Month, invites us to reflect on the wisdom of our ancestors, about eating for health and life.
 
-> Disclaimer: This article is intended for educational and cultural 
-> purposes only. It is not medical advice, a diagnosis, or
-> treatment. Always consult a licensed healthcare professional 
-> with questions or concerns about your health & wellness.
+_Disclaimer: This article is intended for educational and cultural purposes only. It is not medical advice, a diagnosis, or treatment. Always consult a licensed healthcare professional with questions or concerns about your health & wellness._
 
 ## The harvest is finished
 
